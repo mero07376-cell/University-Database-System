@@ -24,4 +24,4 @@ A comprehensive SQL Server database project designed to manage university academ
 - `ERD_Diagram.png`: Visual representation of entity relationships.
 
 ## 👤 Author
-**Omar Adel Mahmoud** [Your LinkedIn Profile Link Here]
+**Omar Adel Mahmoud** www.linkedin.com/in/omaradel2030
